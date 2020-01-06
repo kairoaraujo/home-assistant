@@ -1,0 +1,8 @@
+{
+  "domain": "kodaksmarthome",
+  "name": "Kodak",
+  "documentation": "https://www.home-assistant.io/integrations/kodaksmarthome",
+  "requirements": ["python-kodaksmarthome==0.2.9"],
+  "dependencies": ["ffmpeg"],
+  "codeowners": []
+}
